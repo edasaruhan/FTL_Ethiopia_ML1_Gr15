@@ -1,3 +1,4 @@
+Project Description :
 Initially, we chose to work on AI-Powered Malaria Prediction and Prevention for African Communities. However, after extensive research and efforts to find sufficient data, we realized that acquiring the necessary datasets was a challenge, making it difficult to proceed with the project. As a result, we pivoted our focus to a more feasible and impactful solution.
 
 We have now refocused our efforts on Machine Learning-Based Wheat Yield Prediction (የስንዴ ምርት ትንበያ) Using Environmental Factors. This project aims to predict wheat yield using environmental factors like temperature, rainfall, humidity, and cloud cover, with the ultimate goal of helping farmers optimize their agricultural practices.
