@@ -1,0 +1,17 @@
+Feedback on Wheat Yield Prediction Using Environmental Factors (Capstone Project)
+
+Thank you for the comprehensive and meaningful proposal — this project clearly addresses a pressing issue within the agricultural sector in Ethiopia. The focus on wheat, a key staple crop, and the integration of environmental parameters such as temperature, precipitation, and cloud cover for yield prediction demonstrate both local relevance and strong alignment with Sustainable Development Goal 2: Zero Hunger.
+
+Your methodology is robust and thoughtfully phased, from data collection and model development to application deployment. The decision to use a machine learning-based approach — particularly regression and deep neural networks — is appropriate given the non-linear and multi-dimensional nature of crop yield prediction. The incorporation of NDVI and meteorological indicators further enriches the predictive potential of the system.
+
+To enhance the novelty and utility of your project, here are a few suggestions:
+
+    Data Augmentation: Since local datasets are limited, consider enriching your dataset with satellite-based open datasets, such as those from NASA POWER, FAO GeoNetwork, or Sentinel-2 for vegetation indices.
+
+    Explainability & Trust: Use interpretable ML techniques like SHAP (SHapley Additive exPlanations) to explain which features (e.g., rainfall, soil quality) are driving yield predictions. This could help policymakers and farmers trust the model outputs.
+
+    Scalability: Your plan to scale to other crops is excellent. In future iterations, you could add multi-crop modeling using crop-specific features and introduce multi-target regression models for broader applicability.
+
+    Localization & Equity: For maximum social impact, consider integrating local language interfaces in your web app and simplifying insights so they’re usable by both policymakers and smallholder farmers.
+
+Overall, this is a highly relevant and well-structured project with strong potential for real-world impact. Your approach bridges advanced machine learning with one of the most vital sectors in Ethiopia — agriculture — and can serve as a foundation for long-term digital transformation in food systems.
